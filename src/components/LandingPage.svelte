@@ -164,9 +164,9 @@
       </div>
     </div>
   </div>
-  <br><br>
+  <br /><br />
   <div class="text-center font-semibold px-7 w-full">
-    <h1 class="text-indigo-600 font-bold">NEXTLY BENEFITS</h1>
+    <h1 class="text-indigo-600 font-bold">Svelt-ly BENEFITS</h1>
     <h1
       class="text-4xl md:px-7 font-bold leading-snug tracking-tight text-gray-800 lg:text-4xl lg:leading-tight xl:text-6xl xl:leading-tight dark:text-white"
     >
@@ -180,7 +180,7 @@
       completely open-source.
     </p>
   </div>
-  <br><br>
+  <br /><br />
   <div class="p-5 md:flex items-center justify-center">
     <div class="w-full md:w-1/2">
       <img src="/img/benefit-one.png" alt="" />
@@ -412,4 +412,401 @@
       </div>
     </div>
   </div>
+  <div
+    class="container p-8 mx-auto xl:px-0 flex w-full flex-col mt-4 items-center justify-center text-center"
+  >
+    <div class="text-sm font-bold tracking-wider text-indigo-600 uppercase">
+      Testimonials
+    </div>
+    <h2
+      class="max-w-2xl mt-3 text-3xl font-bold leading-snug tracking-tight text-gray-800 lg:leading-tight lg:text-4xl dark:text-white"
+    >
+      Here's what our customers said
+    </h2>
+    <p
+      class="max-w-2xl py-4 text-lg leading-normal text-gray-500 lg:text-xl xl:text-xl dark:text-gray-300"
+    >
+      Testimonails is a great way to increase the brand trust and awareness. Use
+      this section to highlight your popular customers.
+    </p>
+  </div>
+
+  <div class="container p-8 mx-auto xl:px-0 ">
+    <div class="grid gap-10 lg:grid-cols-2 xl:grid-cols-3">
+      <div class="lg:col-span-2 xl:col-auto">
+        <div
+          class="flex flex-col justify-between w-full h-full bg-gray-100 px-14 rounded-2xl py-14 dark:bg-trueGray-800"
+        >
+          <p class="text-2xl leading-normal ">
+            Share a real <!-- -->
+            <mark
+              class="text-indigo-800 bg-indigo-100 rounded-md ring-indigo-100 ring-4 dark:ring-indigo-900 dark:bg-indigo-900 dark:text-indigo-200"
+              >testimonial</mark
+            >
+            <!-- -->that hits some of your benefits from one of your popular
+            customer.
+          </p>
+          <div class="flex items-center mt-8 space-x-3">
+            <div class="flex-shrink-0 overflow-hidden rounded-full w-14 h-14">
+              <div
+                style="display:block;overflow:hidden;position:relative;box-sizing:border-box;margin:0"
+              >
+                <div
+                  style="display:block;box-sizing:border-box;padding-top:100%"
+                />
+                <img
+                  alt="Avatar"
+                  src="/img/user1.jpg"
+                  decoding="async"
+                  data-nimg="true"
+                  style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; filter: none; background-size: cover; background-image: none; background-position: 0% 0%;"
+                  sizes="100vw"
+                />
+              </div>
+            </div>
+            <div>
+              <div class="text-lg font-medium">Sarah Steiner</div>
+              <div class="text-gray-600 dark:text-gray-400">
+                VP Sales at Google
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="">
+        <div
+          class="flex flex-col justify-between w-full h-full bg-gray-100 px-14 rounded-2xl py-14 dark:bg-trueGray-800"
+        >
+          <p class="text-2xl leading-normal ">
+            Make sure you only pick the <!-- -->
+            <mark
+              class="text-indigo-800 bg-indigo-100 rounded-md ring-indigo-100 ring-4 dark:ring-indigo-900 dark:bg-indigo-900 dark:text-indigo-200"
+              >right sentence</mark
+            >
+            <!-- -->to keep it short and simple.
+          </p>
+          <div class="flex items-center mt-8 space-x-3">
+            <div class="flex-shrink-0 overflow-hidden rounded-full w-14 h-14">
+              <div
+                style="display:block;overflow:hidden;position:relative;box-sizing:border-box;margin:0"
+              >
+                <div
+                  style="display:block;box-sizing:border-box;padding-top:100%"
+                />
+                <img
+                  alt="Avatar"
+                  src="/img/user2.jpg"
+                  decoding="async"
+                  data-nimg="true"
+                  style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; filter: none; background-size: cover; background-image: none; background-position: 0% 0%;"
+                  sizes="100vw"
+                />
+              </div>
+            </div>
+            <div>
+              <div class="text-lg font-medium">Dylan Ambrose</div>
+              <div class="text-gray-600 dark:text-gray-400">
+                Lead marketer at Netflix
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="">
+        <div
+          class="flex flex-col justify-between w-full h-full bg-gray-100 px-14 rounded-2xl py-14 dark:bg-trueGray-800"
+        >
+          <p class="text-2xl leading-normal ">
+            This is an <!-- -->
+            <mark
+              class="text-indigo-800 bg-indigo-100 rounded-md ring-indigo-100 ring-4 dark:ring-indigo-900 dark:bg-indigo-900 dark:text-indigo-200"
+              >awesome</mark
+            >
+            <!-- --> landing page template I've seen. I would use this for anything.
+          </p>
+          <div class="flex items-center mt-8 space-x-3">
+            <div class="flex-shrink-0 overflow-hidden rounded-full w-14 h-14">
+              <div
+                style="display:block;overflow:hidden;position:relative;box-sizing:border-box;margin:0"
+              >
+                <div
+                  style="display:block;box-sizing:border-box;padding-top:100%"
+                />
+                <img
+                  alt="Avatar"
+                  src="/img/user3.jpg"
+                  decoding="async"
+                  data-nimg="true"
+                  style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; filter: none; background-size: cover; background-image: none; background-position: 0% 0%;"
+                  sizes="100vw"
+                />
+              </div>
+            </div>
+            <div>
+              <div class="text-lg font-medium">Gabrielle Winn</div>
+              <div class="text-gray-600 dark:text-gray-400">
+                Co-founder of Acme Inc
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div
+    class="container p-8 mx-auto xl:px-0 flex w-full flex-col mt-4 items-center justify-center text-center"
+  >
+    <div class="text-sm font-bold tracking-wider text-indigo-600 uppercase">
+      FAQ
+    </div>
+    <h2
+      class="max-w-2xl mt-3 text-3xl font-bold leading-snug tracking-tight text-gray-800 lg:leading-tight lg:text-4xl dark:text-white"
+    >
+      Frequently Asked Questions
+    </h2>
+    <p
+      class="max-w-2xl py-4 text-lg leading-normal text-gray-500 lg:text-xl xl:text-xl dark:text-gray-300"
+    >
+      Answer your customers possible questions here, it will increase the
+      conversion rate as well as support or chat requests.
+    </p>
+  </div>
+
+  <div class="container p-8 mx-auto xl:px-0">
+    <div class="w-full max-w-2xl p-2 mx-auto rounded-2xl">
+      <div class="mb-5">
+        <button
+          class="flex items-center justify-between w-full px-4 py-4 text-lg text-left text-gray-800 rounded-lg bg-gray-50 hover:bg-gray-100 focus:outline-none focus-visible:ring focus-visible:ring-indigo-100 focus-visible:ring-opacity-75 dark:bg-trueGray-800 dark:text-gray-200"
+          id="headlessui-disclosure-button-3"
+          type="button"
+          ><span>Is this template completely free to use?</span><svg
+            xmlns="http://www.w3.org/2000/svg"
+            viewBox="0 0 20 20"
+            fill="currentColor"
+            class=" w-5 h-5 text-indigo-500"
+            ><path
+              fill-rule="evenodd"
+              d="M14.707 12.707a1 1 0 01-1.414 0L10 9.414l-3.293 3.293a1 1 0 01-1.414-1.414l4-4a1 1 0 011.414 0l4 4a1 1 0 010 1.414z"
+              clip-rule="evenodd"
+            /></svg
+          ></button
+        >
+      </div>
+      <div class="mb-5">
+        <button
+          class="flex items-center justify-between w-full px-4 py-4 text-lg text-left text-gray-800 rounded-lg bg-gray-50 hover:bg-gray-100 focus:outline-none focus-visible:ring focus-visible:ring-indigo-100 focus-visible:ring-opacity-75 dark:bg-trueGray-800 dark:text-gray-200"
+          id="headlessui-disclosure-button-5"
+          type="button"
+          ><span>Can I use it in a commercial project?</span><svg
+            xmlns="http://www.w3.org/2000/svg"
+            viewBox="0 0 20 20"
+            fill="currentColor"
+            class=" w-5 h-5 text-indigo-500"
+            ><path
+              fill-rule="evenodd"
+              d="M14.707 12.707a1 1 0 01-1.414 0L10 9.414l-3.293 3.293a1 1 0 01-1.414-1.414l4-4a1 1 0 011.414 0l4 4a1 1 0 010 1.414z"
+              clip-rule="evenodd"
+            /></svg
+          ></button
+        >
+      </div>
+      <div class="mb-5">
+        <button
+          class="flex items-center justify-between w-full px-4 py-4 text-lg text-left text-gray-800 rounded-lg bg-gray-50 hover:bg-gray-100 focus:outline-none focus-visible:ring focus-visible:ring-indigo-100 focus-visible:ring-opacity-75 dark:bg-trueGray-800 dark:text-gray-200"
+          id="headlessui-disclosure-button-7"
+          type="button"
+          ><span>What is your refund policy? </span><svg
+            xmlns="http://www.w3.org/2000/svg"
+            viewBox="0 0 20 20"
+            fill="currentColor"
+            class=" w-5 h-5 text-indigo-500"
+            ><path
+              fill-rule="evenodd"
+              d="M14.707 12.707a1 1 0 01-1.414 0L10 9.414l-3.293 3.293a1 1 0 01-1.414-1.414l4-4a1 1 0 011.414 0l4 4a1 1 0 010 1.414z"
+              clip-rule="evenodd"
+            /></svg
+          ></button
+        >
+      </div>
+      <div class="mb-5">
+        <button
+          class="flex items-center justify-between w-full px-4 py-4 text-lg text-left text-gray-800 rounded-lg bg-gray-50 hover:bg-gray-100 focus:outline-none focus-visible:ring focus-visible:ring-indigo-100 focus-visible:ring-opacity-75 dark:bg-trueGray-800 dark:text-gray-200"
+          id="headlessui-disclosure-button-9"
+          type="button"
+          ><span>Do you offer technical support? </span><svg
+            xmlns="http://www.w3.org/2000/svg"
+            viewBox="0 0 20 20"
+            fill="currentColor"
+            class=" w-5 h-5 text-indigo-500"
+            ><path
+              fill-rule="evenodd"
+              d="M14.707 12.707a1 1 0 01-1.414 0L10 9.414l-3.293 3.293a1 1 0 01-1.414-1.414l4-4a1 1 0 011.414 0l4 4a1 1 0 010 1.414z"
+              clip-rule="evenodd"
+            /></svg
+          ></button
+        >
+      </div>
+    </div>
+  </div>
+
+  <div class="container p-8 mx-auto xl:px-0 ">
+    <div
+      class="flex flex-wrap items-center justify-between w-full max-w-4xl gap-5 mx-auto text-white bg-indigo-600 px-7 py-7 lg:px-12 lg:py-12 lg:flex-nowrap rounded-xl"
+    >
+      <div class="flex-grow text-center lg:text-left">
+        <h2 class="text-2xl font-medium lg:text-3xl">
+          Ready to try-out this template?
+        </h2>
+        <p class="mt-2 font-medium text-white text-opacity-90 lg:text-xl">
+          Don't let your visitors see a poor landing.
+        </p>
+      </div>
+      <div class="flex-shrink-0 w-full text-center lg:w-auto">
+        <a
+          href="/#"
+          class="inline-block py-3 mx-auto text-lg font-medium text-center text-indigo-600 bg-white rounded-md px-7 lg:px-10 lg:py-5 "
+          >Download for Free</a
+        >
+      </div>
+    </div>
+  </div>
+
+  <div
+    class=" px-7 grid max-w-screen-xl grid-cols-1 gap-10 pt-10 mx-auto mt-5 border-t border-gray-100 dark:border-trueGray-700 lg:grid-cols-5"
+  >
+    <div class="lg:col-span-2">
+      <div>
+        <a
+          class="flex items-center space-x-2 text-2xl text-indigo-500 font-bold dark:text-gray-100"
+          href="/"
+          ><span
+            ><img
+              src="/favicon.png"
+              alt="N"
+              width="32"
+              height="32"
+              class="w-8"
+            /></span
+          ><span>Svelt-ly</span></a
+        >
+      </div>
+      <div class="max-w-md mt-4 text-gray-500 dark:text-gray-400">
+        Svelt-ly is a free landing page &amp; marketing website template for
+        startups and indie projects. Its built with Svelte &amp; TailwindCSS.
+        And its completely open-source.
+      </div>
+      <div class="mt-5">
+        <a
+          href="/#"
+          
+          class="relative block w-44"
+          ><div
+            style="display:block;overflow:hidden;position:relative;box-sizing:border-box;margin:0"
+          >
+            <div
+              style="display:block;box-sizing:border-box;padding-top:20.754716981132077%"
+            />
+            <img
+              alt="Powered by Vercel"
+              src="/img/vercel.svg"
+              decoding="async"
+              data-nimg="true"
+              style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%"
+              sizes="100vw"
+              
+            />
+          </div></a
+        >
+      </div>
+    </div>
+    <div>
+      <div class="flex flex-wrap w-full -mt-2 -ml-3 lg:ml-0">
+        <a
+          class="w-full px-4 py-2 text-gray-500 rounded-md dark:text-gray-300 hover:text-indigo-500 focus:text-indigo-500 focus:bg-indigo-100 focus:outline-none dark:focus:bg-trueGray-700"
+          href="/">Product</a
+        ><a
+          class="w-full px-4 py-2 text-gray-500 rounded-md dark:text-gray-300 hover:text-indigo-500 focus:text-indigo-500 focus:bg-indigo-100 focus:outline-none dark:focus:bg-trueGray-700"
+          href="/">Features</a
+        ><a
+          class="w-full px-4 py-2 text-gray-500 rounded-md dark:text-gray-300 hover:text-indigo-500 focus:text-indigo-500 focus:bg-indigo-100 focus:outline-none dark:focus:bg-trueGray-700"
+          href="/">Pricing</a
+        ><a
+          class="w-full px-4 py-2 text-gray-500 rounded-md dark:text-gray-300 hover:text-indigo-500 focus:text-indigo-500 focus:bg-indigo-100 focus:outline-none dark:focus:bg-trueGray-700"
+          href="/">Company</a
+        ><a
+          class="w-full px-4 py-2 text-gray-500 rounded-md dark:text-gray-300 hover:text-indigo-500 focus:text-indigo-500 focus:bg-indigo-100 focus:outline-none dark:focus:bg-trueGray-700"
+          href="/">Blog</a
+        >
+      </div>
+    </div>
+    <div>
+      <div class="flex flex-wrap w-full -mt-2 -ml-3 lg:ml-0">
+        <a
+          class="w-full px-4 py-2 text-gray-500 rounded-md dark:text-gray-300 hover:text-indigo-500 focus:text-indigo-500 focus:bg-indigo-100 focus:outline-none dark:focus:bg-trueGray-700"
+          href="/">Terms</a
+        ><a
+          class="w-full px-4 py-2 text-gray-500 rounded-md dark:text-gray-300 hover:text-indigo-500 focus:text-indigo-500 focus:bg-indigo-100 focus:outline-none dark:focus:bg-trueGray-700"
+          href="/">Privacy</a
+        ><a
+          class="w-full px-4 py-2 text-gray-500 rounded-md dark:text-gray-300 hover:text-indigo-500 focus:text-indigo-500 focus:bg-indigo-100 focus:outline-none dark:focus:bg-trueGray-700"
+          href="/">Legal</a
+        >
+      </div>
+    </div>
+    <div class="">
+      <div class="font-medium">Follow us</div>
+      <div class="flex mt-5 space-x-5 text-gray-400 dark:text-gray-500">
+        <a
+          href="/#"
+          ><span class="sr-only">Twitter</span><svg
+            xmlns="http://www.w3.org/2000/svg"
+            width="24"
+            height="24"
+            viewBox="0 0 24 24"
+            fill="currentColor"
+            ><path
+              d="M24 4.37a9.6 9.6 0 0 1-2.83.8 5.04 5.04 0 0 0 2.17-2.8c-.95.58-2 1-3.13 1.22A4.86 4.86 0 0 0 16.61 2a4.99 4.99 0 0 0-4.79 6.2A13.87 13.87 0 0 1 1.67 2.92 5.12 5.12 0 0 0 3.2 9.67a4.82 4.82 0 0 1-2.23-.64v.07c0 2.44 1.7 4.48 3.95 4.95a4.84 4.84 0 0 1-2.22.08c.63 2.01 2.45 3.47 4.6 3.51A9.72 9.72 0 0 1 0 19.74 13.68 13.68 0 0 0 7.55 22c9.06 0 14-7.7 14-14.37v-.65c.96-.71 1.79-1.6 2.45-2.61z"
+            /></svg
+          ></a
+        ><a
+          href="/#"
+          ><span class="sr-only">Facebook</span><svg
+            xmlns="http://www.w3.org/2000/svg"
+            width="24"
+            height="24"
+            viewBox="0 0 24 24"
+            fill="currentColor"
+            ><path
+              d="M24 12.07C24 5.41 18.63 0 12 0S0 5.4 0 12.07C0 18.1 4.39 23.1 10.13 24v-8.44H7.08v-3.49h3.04V9.41c0-3.02 1.8-4.7 4.54-4.7 1.31 0 2.68.24 2.68.24v2.97h-1.5c-1.5 0-1.96.93-1.96 1.89v2.26h3.32l-.53 3.5h-2.8V24C19.62 23.1 24 18.1 24 12.07"
+            /></svg
+          ></a
+        ><a
+          href="/#"
+          ><span class="sr-only">Instagram</span><svg
+            xmlns="http://www.w3.org/2000/svg"
+            width="24"
+            height="24"
+            viewBox="0 0 24 24"
+            fill="currentColor"
+            ><path
+              d="M16.98 0a6.9 6.9 0 0 1 5.08 1.98A6.94 6.94 0 0 1 24 7.02v9.96c0 2.08-.68 3.87-1.98 5.13A7.14 7.14 0 0 1 16.94 24H7.06a7.06 7.06 0 0 1-5.03-1.89A6.96 6.96 0 0 1 0 16.94V7.02C0 2.8 2.8 0 7.02 0h9.96zm.05 2.23H7.06c-1.45 0-2.7.43-3.53 1.25a4.82 4.82 0 0 0-1.3 3.54v9.92c0 1.5.43 2.7 1.3 3.58a5 5 0 0 0 3.53 1.25h9.88a5 5 0 0 0 3.53-1.25 4.73 4.73 0 0 0 1.4-3.54V7.02a5 5 0 0 0-1.3-3.49 4.82 4.82 0 0 0-3.54-1.3zM12 5.76c3.39 0 6.2 2.8 6.2 6.2a6.2 6.2 0 0 1-12.4 0 6.2 6.2 0 0 1 6.2-6.2zm0 2.22a3.99 3.99 0 0 0-3.97 3.97A3.99 3.99 0 0 0 12 15.92a3.99 3.99 0 0 0 3.97-3.97A3.99 3.99 0 0 0 12 7.98zm6.44-3.77a1.4 1.4 0 1 1 0 2.8 1.4 1.4 0 0 1 0-2.8z"
+            /></svg
+          ></a
+        ><a href="/#" rel="noopener"
+          ><span class="sr-only">Linkedin</span><svg
+            xmlns="http://www.w3.org/2000/svg"
+            width="24"
+            height="24"
+            viewBox="0 0 24 24"
+            fill="currentColor"
+            ><path
+              d="M22.23 0H1.77C.8 0 0 .77 0 1.72v20.56C0 23.23.8 24 1.77 24h20.46c.98 0 1.77-.77 1.77-1.72V1.72C24 .77 23.2 0 22.23 0zM7.27 20.1H3.65V9.24h3.62V20.1zM5.47 7.76h-.03c-1.22 0-2-.83-2-1.87 0-1.06.8-1.87 2.05-1.87 1.24 0 2 .8 2.02 1.87 0 1.04-.78 1.87-2.05 1.87zM20.34 20.1h-3.63v-5.8c0-1.45-.52-2.45-1.83-2.45-1 0-1.6.67-1.87 1.32-.1.23-.11.55-.11.88v6.05H9.28s.05-9.82 0-10.84h3.63v1.54a3.6 3.6 0 0 1 3.26-1.8c2.39 0 4.18 1.56 4.18 4.89v6.21z"
+            /></svg
+          ></a
+        >
+      </div>
+    </div>
+  </div>
+  
 </main>
