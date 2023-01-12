@@ -28,12 +28,12 @@
           class="flex flex-col items-start space-y-3 sm:space-x-4 sm:space-y-0 sm:items-center sm:flex-row"
         >
           <a
-            href="/#"
+            href="https://github.com/aldrin112602/my-svelte-project/archive/refs/heads/master.zip"
             rel="noopener"
             class="px-8 py-4 text-lg font-medium text-center text-white bg-indigo-600 rounded-md "
             >Download for Free</a
           ><a
-            href="/#"
+            href="https://github.com/aldrin112602/my-svelte-project"
             rel="noopener"
             class="flex items-center space-x-2 text-gray-500 dark:text-gray-400"
             ><svg
@@ -664,7 +664,7 @@
       </div>
       <div class="flex-shrink-0 w-full text-center lg:w-auto">
         <a
-          href="/#"
+          href="https://github.com/aldrin112602/my-svelte-project/archive/refs/heads/master.zip"
           class="inline-block py-3 mx-auto text-lg font-medium text-center text-indigo-600 bg-white rounded-md px-7 lg:px-10 lg:py-5 "
           >Download for Free</a
         >
@@ -770,7 +770,7 @@
             /></svg
           ></a
         ><a
-          href="/#"
+          href="https://web.facebook.com/aldrinCodes"
           ><span class="sr-only">Facebook</span><svg
             xmlns="http://www.w3.org/2000/svg"
             width="24"
