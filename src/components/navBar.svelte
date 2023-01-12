@@ -1,9 +1,10 @@
 <script>
-  let darkmode = false, toggleNav = false;
+  let darkmode = document.getElementById('html').class == 'dark', toggleNav = false;
   const toggleDarkTheme = () => {
     darkmode = !darkmode;
-    document.getElementById('html').className = darkmode ? "dark" : "";
+    document.getElementById('html').className = !darkmode ? "dark" : "";
   };
+  
 </script>
 
 <nav

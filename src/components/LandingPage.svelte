@@ -435,7 +435,7 @@
     <div class="grid gap-10 lg:grid-cols-2 xl:grid-cols-3">
       <div class="lg:col-span-2 xl:col-auto">
         <div
-          class="flex flex-col justify-between w-full h-full bg-gray-100 px-14 rounded-2xl py-14 dark:bg-trueGray-800"
+          class="flex flex-col justify-between w-full h-full bg-gray-100 px-14 rounded-2xl py-14 dark:bg-gray-700"
         >
           <p class="text-2xl leading-normal ">
             Share a real <!-- -->
@@ -475,7 +475,7 @@
       </div>
       <div class="">
         <div
-          class="flex flex-col justify-between w-full h-full bg-gray-100 px-14 rounded-2xl py-14 dark:bg-trueGray-800"
+          class="flex flex-col justify-between w-full h-full bg-gray-100 px-14 rounded-2xl py-14 dark:bg-gray-700"
         >
           <p class="text-2xl leading-normal ">
             Make sure you only pick the <!-- -->
@@ -514,7 +514,7 @@
       </div>
       <div class="">
         <div
-          class="flex flex-col justify-between w-full h-full bg-gray-100 px-14 rounded-2xl py-14 dark:bg-trueGray-800"
+          class="flex flex-col justify-between w-full h-full bg-gray-100 px-14 rounded-2xl py-14 dark:bg-gray-700"
         >
           <p class="text-2xl leading-normal ">
             This is an <!-- -->
@@ -577,7 +577,7 @@
     <div class="w-full max-w-2xl p-2 mx-auto rounded-2xl">
       <div class="mb-5">
         <button
-          class="flex items-center justify-between w-full px-4 py-4 text-lg text-left text-gray-800 rounded-lg bg-gray-50 hover:bg-gray-100 focus:outline-none focus-visible:ring focus-visible:ring-indigo-100 focus-visible:ring-opacity-75 dark:bg-trueGray-800 dark:text-gray-200"
+          class="flex items-center justify-between w-full px-4 py-4 text-lg text-left text-gray-800 rounded-lg bg-gray-50 hover:bg-gray-100 focus:outline-none focus-visible:ring focus-visible:ring-indigo-100 focus-visible:ring-opacity-75 dark:bg-gray-700 dark:text-gray-200"
           id="headlessui-disclosure-button-3"
           type="button"
           ><span>Is this template completely free to use?</span><svg
@@ -595,7 +595,7 @@
       </div>
       <div class="mb-5">
         <button
-          class="flex items-center justify-between w-full px-4 py-4 text-lg text-left text-gray-800 rounded-lg bg-gray-50 hover:bg-gray-100 focus:outline-none focus-visible:ring focus-visible:ring-indigo-100 focus-visible:ring-opacity-75 dark:bg-trueGray-800 dark:text-gray-200"
+          class="flex items-center justify-between w-full px-4 py-4 text-lg text-left text-gray-800 rounded-lg bg-gray-50 hover:bg-gray-100 focus:outline-none focus-visible:ring focus-visible:ring-indigo-100 focus-visible:ring-opacity-75 dark:bg-gray-700 dark:text-gray-200"
           id="headlessui-disclosure-button-5"
           type="button"
           ><span>Can I use it in a commercial project?</span><svg
@@ -613,7 +613,7 @@
       </div>
       <div class="mb-5">
         <button
-          class="flex items-center justify-between w-full px-4 py-4 text-lg text-left text-gray-800 rounded-lg bg-gray-50 hover:bg-gray-100 focus:outline-none focus-visible:ring focus-visible:ring-indigo-100 focus-visible:ring-opacity-75 dark:bg-trueGray-800 dark:text-gray-200"
+          class="flex items-center justify-between w-full px-4 py-4 text-lg text-left text-gray-800 rounded-lg bg-gray-50 hover:bg-gray-100 focus:outline-none focus-visible:ring focus-visible:ring-indigo-100 focus-visible:ring-opacity-75 dark:bg-gray-700 dark:text-gray-200"
           id="headlessui-disclosure-button-7"
           type="button"
           ><span>What is your refund policy? </span><svg
@@ -631,7 +631,7 @@
       </div>
       <div class="mb-5">
         <button
-          class="flex items-center justify-between w-full px-4 py-4 text-lg text-left text-gray-800 rounded-lg bg-gray-50 hover:bg-gray-100 focus:outline-none focus-visible:ring focus-visible:ring-indigo-100 focus-visible:ring-opacity-75 dark:bg-trueGray-800 dark:text-gray-200"
+          class="flex items-center justify-between w-full px-4 py-4 text-lg text-left text-gray-800 rounded-lg bg-gray-50 hover:bg-gray-100 focus:outline-none focus-visible:ring focus-visible:ring-indigo-100 focus-visible:ring-opacity-75 dark:bg-gray-700 dark:text-gray-200"
           id="headlessui-disclosure-button-9"
           type="button"
           ><span>Do you offer technical support? </span><svg
