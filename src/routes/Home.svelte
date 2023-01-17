@@ -1,5 +1,5 @@
 <script>
-  import NavBar from "./navBar.svelte";
+  import NavBar from "../components/NavBar.svelte";
 </script>
 
 <NavBar />
@@ -10,7 +10,7 @@
         <h1
           class="text-4xl font-bold leading-snug tracking-tight text-gray-800 lg:text-4xl lg:leading-tight xl:text-6xl xl:leading-tight dark:text-white"
         >
-          Free Landing Page Template for startups
+          Web Real-Time Chat Application
         </h1>
         <p
           class="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl dark:text-gray-300"
@@ -18,11 +18,9 @@
           <em class="font-bold text-indigo-600 italic dark:text-white"
             >Sveltly-Fy</em
           >
-          is a free landing page &amp; marketing website template for startups and
-          indie projects. Its built with
+          is a free Web Real-Time Chat Application. It's built with
           <em class="dark:text-white">Svelte</em>
-          &amp; <em class="dark:text-white">TailwindCSS</em>. And its completely
-          open-source.
+          &amp; <em class="dark:text-white">TailwindCSS</em>
         </p>
         <div
           class="flex flex-col items-start space-y-3 sm:space-x-4 sm:space-y-0 sm:items-center sm:flex-row"
@@ -170,15 +168,14 @@
     <h1
       class="text-4xl md:px-7 font-bold leading-snug tracking-tight text-gray-800 lg:text-4xl lg:leading-tight xl:text-6xl xl:leading-tight dark:text-white"
     >
-      Why should you use this landing page
+      Why you should use <em>Sveltly-Fy ?</em> 
     </h1>
     <p
       class="p-5 md:px-20 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl dark:text-gray-300"
     >
-      Sveltly-Fy is a free landing page & marketing website template for
-      startups and indie projects. Its built with Svelte & TailwindCSS. And its
-      completely open-source.
+      Sveltly-Fy helps you connect with friends, family and communities of people who share your interests. Connecting with your friends and family as well as discovering new ones is easy with features like Groups, Watch and Marketplace.
     </p>
+
   </div>
   <br /><br />
   <div class="p-5 md:flex items-center justify-center">
